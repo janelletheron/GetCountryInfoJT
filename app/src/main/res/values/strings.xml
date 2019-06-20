@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GetCountryInfo</string>
+    <string name="instructions">Welcome, enter a Country:</string>
+    <string name="nName_hint">South Africa</string>
+    <string name="button_text">Tell me more!</string>
+    <string name="no_results">No Results Found</string>
+    <string name="title_activity_capital_info_output">CapitalInfoOutput</string>
+    <string name="title_activity_languages_info_output">LanguagesInfoOutput</string>
+</resources>
